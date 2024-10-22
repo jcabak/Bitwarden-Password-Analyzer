@@ -47,7 +47,7 @@ By default, passwords shorter than 14 characters will be considered weak.
 
 - `result_<filename>.txt`: A text report with weak passwords in the format:
 
-<password length> - <domain> - <username> - <password>
+`password length` - `domain` - `username` - `password`
   
 - `result_<filename>.html`: An HTML report with a sortable table. URLs in the "Website" column are clickable and open in a new window.
 
